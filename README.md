@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems in the space of healthcare and insurance.
 - 🌱 I’m currently learning applied data science, machine learning productionization and deploying machine learning projects.
 - 💞️ I’m looking to collaborate on open source data science projects, kaggle competitions and hack-a-thons.
-- 📫 You can reach me at nagarjunakanneganti@gmail.com
+- 📫 You can reach out to me at nagarjunakanneganti@gmail.com
 
 <!---
 nagarjuna1995/nagarjuna1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
